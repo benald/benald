@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benald
-- 👀 I’m interested in the front end, specifically WCMS
-- 🌱 I’m currently learning Nunjucks, Hugo and Blender
+- 👀 I’m interested in web frontend, specifically Optimizely DXP
+- 🌱 I’m currently learning React, Data Engineering and Blender Animation
 - 📫 How to reach me benald@gmail.com
 
 <!---
